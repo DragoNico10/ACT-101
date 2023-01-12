@@ -63,7 +63,6 @@ def roll():
             break
         else:
             print(f'Value {response} is not valid, try Y or N?')
-            print(response)
         
 
 roll()
